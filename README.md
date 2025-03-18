@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julsehn
 - 👀 I’m interested in Hackintosh and tech in general
 - 🌱 I’m currently learning how to not commit sudokus to other repos /j
-- 💞️ I’m looking to collaborate on ChrultraBook
+- 💞️ I’m looking to collaborate on ChrultraBook, OCLP and Hackintosh communities.
 - 😄 Pronouns: He/him
 - ⚡ Catalan, Spanish and learning English
 
